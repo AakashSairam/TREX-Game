@@ -72,7 +72,7 @@ function setup() {
 
 function draw() {
   //set background color
-  background("white");
+  background("lightgreen");
   text("score -"+score,500,25);
   
   
